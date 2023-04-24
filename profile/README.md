@@ -25,7 +25,7 @@ camino-tempfile is a wrapper around Rust's [tempfile](https://docs.rs/tempfile/l
 
 ### pathdiff
 
-[pathdiff](https://docs.rs/pathdiff) is a Rust library that performs diffs of two paths in memory. pathdiff supports camino with the optional [`camino`] feature.
+[pathdiff](https://docs.rs/pathdiff) is a Rust library that performs diffs of two paths in memory. pathdiff [supports camino](https://docs.rs/pathdiff/latest/pathdiff/fn.diff_utf8_paths.html) with the optional `camino` feature.
 
 ### cap-std
 
