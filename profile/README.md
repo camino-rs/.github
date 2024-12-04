@@ -5,7 +5,7 @@ camino is a Rust library that extends
 [`Utf8PathBuf`] and
 [`Utf8Path`] types.
 
-camino is widely used within the Rust ecosystem, with over 20 million downloads from crates.io to date.
+camino is widely used within the Rust ecosystem, with over 50 million downloads from crates.io to date.
 
 * [Repository on GitHub](https://github.com/camino-rs/camino)
 * [camino on crates.io](https://crates.io/crates/camino/)
