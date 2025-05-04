@@ -21,7 +21,7 @@ camino-tempfile is a wrapper around Rust's [tempfile](https://docs.rs/tempfile/l
 * [camino-tempfile on crates.io](https://crates.io/crates/camino-tempfile/)
 * [Documentation](https://docs.rs/camino-tempfile)
 
-* ### camino-tempfile-ext
+### camino-tempfile-ext
 
 Quality-of-life extensions to camino-tempfile. Geared towards testing.
 
