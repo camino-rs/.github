@@ -17,9 +17,18 @@ camino is widely used within the Rust ecosystem, with over 50 million downloads 
 
 camino-tempfile is a wrapper around Rust's [tempfile](https://docs.rs/tempfile/latest/tempfile/) that works with [`Utf8PathBuf`] and [`Utf8Path`].
 
-* [Repository on GitHub](https://github.com/camino-rs/camino-tempfile)
+* [Repository on GitHub](https://github.com/camino-rs/camino-tempfile/tree/main/crates/camino-tempfile)
 * [camino-tempfile on crates.io](https://crates.io/crates/camino-tempfile/)
 * [Documentation](https://docs.rs/camino-tempfile)
+
+* ### camino-tempfile-ext
+
+Quality-of-life extensions to camino-tempfile. Geared towards testing.
+
+* [Repository on GitHub](https://github.com/camino-rs/camino-tempfile/tree/main/crates/camino-tempfile-ext)
+* [camino-tempfile on crates.io](https://crates.io/crates/camino-tempfile-ext/)
+* [Documentation](https://docs.rs/camino-tempfile-ext)
+
 
 ## Third-party projects that support camino
 
